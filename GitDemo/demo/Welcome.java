@@ -3,7 +3,9 @@ package demo;
 /**
  * This is the very first program we looked at this semester.
  * 
- * @author yuksel
+ * Let's just demo Eclipse with Git/GitHub
+ * 
+ * @author Yuksel Gunal
  *
  */
 public class Welcome {
